@@ -1,1 +1,0 @@
-# LigmaBalls-K5-L3-Day05-AI-Product-UX-Autonomy
