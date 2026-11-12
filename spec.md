@@ -1,12 +1,11 @@
-# Bài nộp LAB5 — T2 Giáo dục · Nhóm [tên nhóm]
+# Bài nộp LAB5 — T2 Giáo dục · Nhóm LigmaBalls
 
-**Lớp:** [L3A/L3B] · **Bàn/zone:** [điền] · **Track:** T2 Giáo dục
+**Lớp:** L3A · **Bàn/zone:** chưa xác định · **Track:** T2 Giáo dục
 
 | Họ và tên | Mã học viên | Việc đã làm |
 |---|---|---|
 | Đoàn Viết Huy | 03593 | Đề xuất phạm vi và kịch bản §1–§2; chọn hai ca khó, thiết kế câu chữ và luồng xử lý §3. |
 | Nguyễn Minh Đức | 0396a0 | Phân tích mức tự chủ §4; chọn luồng ca #1, thử prototype và chụp hai ảnh §5; đề xuất tiêu chí §6. |
-|  |  |  |
 
 ### Phân công dự kiến
 
@@ -15,7 +14,7 @@
 - **Cùng chốt:** 2 ca khó, các quyết định ở §1–§4, 3 tiêu chí ở §6 và cách xử lý ca lạ trong demo.
 - **Kiểm tra cuối:** nếu phần việc chuyển người thực hiện, cập nhật cột “Việc đã làm” theo người thực sự hoàn thành.
 
-> Cập nhật bảng thành viên và việc đã làm theo thực tế sau khi TA xác nhận cách xử lý yêu cầu nhóm 3 người.
+> Nhóm có 2 thành viên; theo xác nhận của nhóm, TA đã đồng ý ngoại lệ so với yêu cầu 3 người trong guide.
 
 ## §1. Lát cắt & phạm vi
 
@@ -128,4 +127,4 @@
 
 **Giải thích quyết định khó:** `dang_FAQ` phải chờ TA duyệt vì một câu sai đăng cho cả lớp không thể thu hồi hoàn toàn; trong khi chờ, học viên vẫn nhận lời giải thích riêng có cảnh báo. Nếu người xem đưa ca lạ, đối chiếu câu hỏi với tài liệu đang có và phạm vi bốn công cụ: thiếu nguồn thì nói chưa biết/hỏi lại, việc vượt quyền thì dừng, nội dung có thể lan rộng thì chờ người duyệt. Prototype hiện chưa có nhánh bấm riêng cho mọi ca lạ.
 
-**Phần trình bày dự kiến:** Huy giới thiệu lát cắt và hai ca khó; Đức bấm prototype, giải thích mức tự chủ và giới hạn mô phỏng. Cập nhật phần của thành viên thứ ba theo người thực sự tham gia trước khi nộp.
+**Phần trình bày dự kiến:** Huy giới thiệu lát cắt và hai ca khó; Đức bấm prototype, giải thích mức tự chủ và giới hạn mô phỏng.
